@@ -1,6 +1,6 @@
 # Hi there! 👋 
 ## 🧑🏻‍💻👨🏻‍🏫 About me:
-📖💻 I hold a Bachelor's degree in Mathematics at the <a href="https://www.uv.mx/" target="_blank">Faculty of Mathematics of the Universidad Veracruzana (UV)</a> and I'm currently pursuing a Master's degree in Computer Science at the <a href="https://www.cimat.mx/" target="_blank">Center of Research in Mathematics (CIMAT)</a>.
+📖💻 I hold a Bachelor's degree in Mathematics at the <a href="https://www.uv.mx/matematicas/" target="_blank">Faculty of Mathematics of the Universidad Veracruzana (UV)</a> and I'm currently pursuing a Master's degree in Computer Science at the <a href="https://www.cimat.mx/" target="_blank">Center of Research in Mathematics (CIMAT)</a>.
 
 - 🌱 I'm passionate about programming, mathematics, and how they intersect in data science and machine learning.
 - 🤔 I’m always open to discussions on mathematical models, optimization techniques, and programming challenges.
