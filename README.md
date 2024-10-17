@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm Angel Antonio Méndez Hernández
-###🔭 I hold a Bachelor's degree in Mathematics and I'm currently pursuing a Master's degree in Computer Science.
+🔭 I hold a Bachelor's degree in Mathematics and I'm currently pursuing a Master's degree in Computer Science.
 - 🌱 I'm passionate about programming, mathematics, and how they intersect in data science and machine learning.
 - 👯 I’m looking to collaborate on projects related to algorithms, data analysis, and graph theory.
 - 🤔 I’m always open to discussions on mathematical models, optimization techniques, and programming challenges.
